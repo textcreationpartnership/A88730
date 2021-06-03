@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevves from the King of Scots, concerning his uniting with the Lord Belcarris, and advansing towards the Marquesses of Argile and Huntley, who are raising a new army of redshanks in the north of Scotland, about the Isles of Orkney and the Highlands. Also, the remonstrance and declaration of 11000. Scots, touching their King, and the Parl. of England; and the declaration of James Stuart, (second son to the late King of England) to the English in France. With a great overthrowe given to Prince Ruperts fleet at sea by Captain Pen, Vice-Admiral for the Parliament of England, and the number of ships sunk and taken.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88730</idno><idno type="EEBO-CITATION">99865842</idno>
+  <idno type="VID">165950</idno>
+  <idno type="EEBO-PROQUEST">2240917605</idno>
+  
+            <idno type="STC">Wing L496</idno>
+            <idno type="STC">Thomason E641_24</idno>
+            <idno type="STC">ESTC R206733</idno>
+            <idno type="PROQUEST">99865842</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865842e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E641[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevves from the King of Scots, concerning his uniting with the Lord Belcarris, and advansing towards the Marquesses of Argile and Huntley, who are raising a new army of redshanks in the north of Scotland, about the Isles of Orkney and the Highlands. Also, the remonstrance and declaration of 11000. Scots, touching their King, and the Parl. of England; and the declaration of James Stuart, (second son to the late King of England) to the English in France. With a great overthrowe given to Prince Ruperts fleet at sea by Captain Pen, Vice-Admiral for the Parliament of England, and the number of ships sunk and taken.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Wharton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165950:1"/>
+            <p>The last NEVVES FROM The King of Scots, Concerning his uniting with The Lord Belcarris, AND Advansing towards the Marquesses of ARGILE and HUNTLEY, who are raising a new Army of Redshanks in the <hi>North</hi> of <hi>Scotland,</hi> about the Isles of <hi>Orkney</hi> and the <hi>Highlands.</hi> ALSO, The Remonstrance and Declaration of 11000. <hi>Scots,</hi> touching their <hi>King,</hi> and the Parl. of <hi>England;</hi> And the <hi>Declaration</hi> of <hi>James Stuart,</hi> (second Son to the late King of <hi>England</hi>) to the <hi>English</hi> in <hi>France.</hi> With a great Overthrowe given to Prince Ru<g ref="char:EOLhyphen"/>perts Fleet at Sea by Captain PEN, Vice-Admiral for the Parliament of <hi>England,</hi> and the number of Ships sunk and taken.</p>
+            <p>Imprinted at London for G. Wharton, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <div type="part">
+               <pb facs="tcp:165950:2"/>
+               <pb n="1" facs="tcp:165950:2"/>
+               <head>Strange Nevvs from the KING OF <hi>SCOTS.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">O</seg>N <hi>Thursday</hi> last being the 28. of this instant <hi>September</hi> here arived one <hi>William Elliot</hi> from <hi>Leeds</hi> in the West Riding of Yorkshire; who imports, That the King of Scots upon his chase from <hi>Hallisay,</hi> stee<g ref="char:EOLhyphen"/>red his Coast Northward, and as we hear, is got into <hi>Scotland,</hi> to the Lord <hi>Belcarris,</hi> who with 500. horse is advanced towards the Marquesse of <hi>Argile,</hi> and the Marquesse of <hi>Huntley;</hi> they being the two of the greatest prerogative and Presbyter Champions, that now appears visible in any parts of
+<pb n="2" facs="tcp:165950:3"/>
+                  <hi>Scotland;</hi> For all possible meanes (by them) are used, to expedite a new Levie, divers refuse to yeeld Obedi<g ref="char:EOLhyphen"/>ence to their Edicts and Commands, and others again are as submissive thereunto, However, their present host is not very formidable, neither are they above 5000 compleatly armed, that are in a Discipline con<g ref="char:EOLhyphen"/>dition to take the Field. Our Intelligence from thence saith, that the Marquesse of <hi>Argile</hi> hath summoned in all from 16. to 60. in the Counties of <hi>Argile, D lmore,</hi> and <hi>Buchanon,</hi> and that the Marquess of <hi>Huntley</hi> hath done the like about the Isles of Orkney. But we doubt not but to blast them even in the very Bud, and so to open and disperse their plumes, that they shall never be able to close and unite again; And in Order there<g ref="char:EOLhyphen"/>unto, valiant Col. <hi>Okey,</hi> and Col. <hi>Overton,</hi> are advanced with about 1500 horse 700. Dragoons, and a conside<g ref="char:EOLhyphen"/>rable party of foot, towards them, for the reducing and translating of these turbulent spirits into another form; We have received advertisements, that above 11000 Lairds, Genlemen, and others of the Scottish Nation, have represented (by way of Remonstrance) their cordiall affections towards the Parliamet of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> A Demonstration whereof followeth.</p>
+               <p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="petition">
+                              <p>VVHereas we whose Name are here subscribed, being sensible of the great provocations and high displeasure of Almighty God against the people of this Nation, whose sinnes and backsli<g ref="char:EOLhyphen"/>dings, calls for a sudden and severe correction from Heaven; Do here remonstrate and declare, That we unfeignedly desire to humble our selves before his divine Majesty not only for our own sins but for the sins of this Nation, beseeching him through the bowels and merits of Jesus Christ his sake, That he will graciously vouchsafe to with<g ref="char:EOLhyphen"/>draw
+<pb n="3" facs="tcp:165950:3"/> his heavy judgements from us, and to take off his Rod of Cor<g ref="char:EOLhyphen"/>rection from us, by sheathing the sword, that is now drawn within the Bowels of this our Land of Nativity; and to unite the hearts of all its off spring in the wayes of Truth and Holinesse, and for the setting up and advanceing of the Kingdom of our blessed Lord and Saviour Jesus Christ; To the end that <hi>Scotland</hi> and <hi>England</hi> may once again be knit together in the sacred Bonds if Gospell Vnity and Discipline, and in order thereunto, we the unworthiest and meanest of his Creatures. Do declare, protest vow, and promise, in the pre<g ref="char:EOLhyphen"/>sence of God, who is the searcher of all hearts; that we shall to the utmost of our power and Callings indeavour the setling of a glorious Refomation in Religion, the subduing of all the Enemies thereof, and the establishing of a true and lasting peace within this our bleeding Nation; by yeelding submission to the Government of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> as it is now established without King or House of Lords.</p>
+                              <closer>So help us God.
+<signed>James Stewart, Iames Brown, Iames Provost, Anthony Ogleby, Iohn Gilford, Robert Hamilton, Iames Weims, Alexander Kemp, Gabiel Smith, Iacob Alention, Cranford Humes, Cran<g ref="char:EOLhyphen"/>ford Wilson, Iohn Thomas Iohn W<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>od, Iames Tomkins, Wil. Simson, Richard Simson, Tho: Alexander, Thomas Sundie, And divers others.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </p>
+               <p>This Remonstrance, with the Names subscribed, were sent to Edenborow where it was printed, since which time, many thou<g ref="char:EOLhyphen"/>sands more have yeelded submission unto us, to that we have great cause to blesse God, for his inestimable mercies towards us, and for so sudden a change and alteration in the hearts of our Enemies. In so much, that the people of England and Scot<g ref="char:EOLhyphen"/>land may say, of our thrice valiant and renouned Generall, as the Athenians said of that gallant Worthy <hi>Guicciardin; O</hi> blessed be the God of Heaven and Earth, for ceating us <hi>Guic<g ref="char:EOLhyphen"/>ciarain,</hi> Guicciardin, who hath freed us from the Tyranny of <hi>Pisestratus,</hi> and restored us to a happy condition of freedome, and liberty. So may the people of England say, O blessed be the name of the Lord, that he hath made a Cromwel instrumental, for the casting down of Tyranny and restering us to freedome and liberty</p>
+               <closer>
+                  <dateline>Wakefield <date>25 Septem. 1651.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem">
+               <pb n="4" facs="tcp:165950:4"/>
+               <head>Honoratissimo, Invictissimo{que} Imperatori, Domino OLIVERO CROMWEL. Encomia triumpha{que} canit Respublica.</head>
+               <lg>
+                  <l>
+                     <hi>TErtio Septembris erat Brittannis</hi>
+                  </l>
+                  <l>
+                     <hi>Palma Worcestri memoranda campis:</hi>
+                  </l>
+                  <l>
+                     <hi>En secundus Tarquinius superbus</hi>
+                  </l>
+                  <l>
+                     <hi>ense fugatus.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ecceterram concutiunt Brittanni:</hi>
+                  </l>
+                  <l>
+                     <hi>Dum boant bombis fremebunda bella,</hi>
+                  </l>
+                  <l>
+                     <hi>Impetu incursant tumidos malignos</hi>
+                  </l>
+                  <l>
+                     <hi>abs{que} tremore.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>At manu forti opposuere Scoti,</hi>
+                  </l>
+                  <l>
+                     <hi>Tunc potens Victor sua tela vibrat,</hi>
+                  </l>
+                  <l>
+                     <hi>Et gravi quassu quatiebat hostes</hi>
+                  </l>
+                  <l>
+                     <hi>fortibu Anglis:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Irruunt Urbem rapiunt{que} praedas,</hi>
+                  </l>
+                  <l>
+                     <hi>At{que} jactantes repulere Scotos,</hi>
+                  </l>
+                  <l>
+                     <hi>Infuga tristi cecidere strage,</hi>
+                  </l>
+                  <l>
+                     <hi>Te Duce CROMWEL.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ista norunt Presbyteri{que} lugent;</hi>
+                  </l>
+                  <l>
+                     <hi>Ast ovant Angli celebri Triumpho:</hi>
+                  </l>
+                  <l>
+                     <hi>Imperatoris celebranda dignis</hi>
+                  </l>
+                  <l>
+                     <hi>fama Trophaeis.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div xml:lang="eng" type="poem" subtype="acrostic">
+               <pb n="5" facs="tcp:165950:4"/>
+               <head>Chronogramma in Victoriam memorabilem <hi>WORCESTRI.</hi> Campis expugnatam.</head>
+               <p>BeLLaVIt VICtor, StraVIt, Rap VIt{que} FVga VIt: 1651.</p>
+               <p>SCotIgenIs, ACIes, InsIgnIa CVnCta, TyrannVM.</p>
+               <lg>
+                  <l>
+                     <hi>O</hi> Famous Victor! who by <hi>Jacobs</hi> God</l>
+                  <l>
+                     <hi>L</hi>ofty proud Tyrants under foot hast trod:</l>
+                  <l>
+                     <hi>I</hi>ustice, Peace, Freedom, thou by Conquest brought</l>
+                  <l>
+                     <hi>V</hi>nto our Land, and change of Kingdoms wrought,</l>
+                  <l>
+                     <hi>E</hi>v'n to a happy state of upright STATES,</l>
+                  <l>
+                     <hi>R</hi>endring themselves most just in all Debates.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>C</hi>ome sorraign Lands! see him that overcame</l>
+                  <l>
+                     <hi>R</hi>aging fierce Armies for his Countries Fame:</l>
+                  <l>
+                     <hi>O</hi>ld <hi>Tarqui<gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi> rain, Himself, his Son, his Crown,</l>
+                  <l>
+                     <hi>M</hi>ade War against him, but they'r overthrown:</l>
+                  <l>
+                     <hi>W</hi>oe to all Monarchs, woe; thrice woe to <hi>Roome;</hi>
+                  </l>
+                  <l>
+                     <hi>E</hi>v'n from the <hi>North</hi> proceeds her fatal Doom:</l>
+                  <l>
+                     <hi>L</hi>et free-born <hi>Brittains</hi> now triumph and sing,</l>
+                  <l>
+                     <hi>L</hi>et <hi>CROMWELS</hi> Fame amongst the Nations ring.</l>
+               </lg>
+               <byline>Per <hi>Franciscum Nelson,</hi> Militem Academicum.</byline>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:165950:5"/>
+               <p>His Excellency the Lord Gen. <hi>Cromwel,</hi> hath taken into consideration the grievous and heavy burden of the people, and hath proposed away for the speedy re<g ref="char:EOLhyphen"/>dress of all their calamities and troubles; by taking off Taxes, Excise, and other oppressures, which for many years they have groaned under: This, so soon as other weighty businesses are determined, will be taken into serious consultation and debate, which will be a Mes<g ref="char:EOLhyphen"/>sage of great joy, and welcom tydings both to City and Country. Thus may we discern the great care &amp; pru<g ref="char:EOLhyphen"/>dence of his Excel: towards this Nation, who no soon<g ref="char:EOLhyphen"/>er having freed us from the tyranny of Kings; but he immediatly endeavours the restitution of a free State, and the freedom of the people; and in order thereun<g ref="char:EOLhyphen"/>to the Honourable Court of Parliament have made some progress therein for the chusing of a new Repre<g ref="char:EOLhyphen"/>sentative. A work very acceptable and satisfactory both to the People and Souldiery. As for example, no sooner had the <hi>Athenians</hi> freed themselves from the tyranny of <hi>Pisistratus</hi> their <hi>King;</hi> but in a short time they were mightily augmented to exceeding great riches. And the <hi>Romans</hi> arrived to such a height after the expulsion of their <hi>Kings,</hi> that all the world admired them.</p>
+               <p>On <hi>Saturday</hi> being the 27 instant, news came to the Exchange, That Vice Admiral Pen had obtained a great Victory against Prince <hi>Rupert</hi> and the <hi>French,</hi> and that he had taken 5 Ships, and sunk 3. Likewise from <hi>France</hi> it is advertized, that <hi>James Stuart,</hi> (second Son to the late <hi>King</hi> of <hi>England</hi>) hath received Commission from the <hi>French King</hi> to raise forces against the P. of <hi>Conde;</hi> and that he hath sent a letter to divers <hi>English,</hi> in<g ref="char:EOLhyphen"/>viting them to his assistance, with a Declaration shew<g ref="char:EOLhyphen"/>ing the grounds and reasons of his Engagement.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
